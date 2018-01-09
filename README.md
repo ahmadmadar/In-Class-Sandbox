@@ -8,7 +8,7 @@ I can create **bold** text (wrapped by two asterisks) or *italic* text (wrapped 
 
 I can create fenced code blocks using back-ticks, like this: 
 
-''' csharp
+'''csharp
 public static void Main(string[] args)
 {
   console.WriteLine("Hello World");
